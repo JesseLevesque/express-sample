@@ -18,7 +18,9 @@
     },
     "homepage": "https://github.com/JesseLevesque/express-sample#readme",
     "dependencies": {
-        "express": "^4.17.3"
+
+        "express": "^4.17.3",
+        "hbs": "^4.2.0"
     },
     "devDependencies": {
         "nodemon": "^2.0.15"
